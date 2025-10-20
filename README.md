@@ -9,6 +9,5 @@
 
 ⚡ Currently exploring: Retro VMs, provenance logging, and Aero Archivist branding across platforms.
 
-<p align="center">
-  <img src="banner.png" alt="Aero Archivist Banner">
-</p>
+<img src="aero-archivist-banner.png" alt="Aero Archivist Banner">
+
